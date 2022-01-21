@@ -55,4 +55,4 @@ const soalNo2 = () => {
 }
 
 soalNo1();
-// soalNo2();
+soalNo2();
